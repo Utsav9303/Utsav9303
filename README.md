@@ -1,0 +1,70 @@
+<h1 align="center">Hi there, I'm Utsav! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;A+passionate+developer+bridging+Networking+and+Code;Let%27s+create+innovative+solutions+together...&center=true&width=600&height=100" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me
+- 🎓 Engineering student at **G H Patel College of Engineering & Technology (CVM University)**  
+- 🏆 **Executive Member(Core Team)** at **CSI(Computer Socity of India) GCET Student Branch**  
+I'm a dedicated developer with a passion for merging software with network systems. My work centers around crafting secure, efficient, and automated solutions that tackle real-world challenges in networking and cybersecurity. Whether it's writing scripts in Python or configuring networks with Cisco Packet Tracer, I thrive on solving complex problems with creative technology.
+
+---
+
+### 🚀 Technologies & Tools
+
+#### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+#### Networking & Cybersecurity
+- **Concepts:** VLANs, Subnetting, DHCP, Network Security  
+- **Tools:** Cisco Packet Tracer
+
+#### Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### Other Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+### 🔧 What I'm Working On
+
+- **Network Automation:** Developing scripts to automate configuration, monitoring, and management of network systems.
+- **Cybersecurity Enhancements:** Experimenting with advanced security measures to protect network infrastructures.
+- **System Optimization:** Bridging software and networking to design robust, real-world solutions.
+
+---
+
+### 📫 Let's Connect
+
+I'm always excited to collaborate or discuss innovative ideas. Reach out to me via:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Utsav9303&show_icons=true&theme=radical" alt="Utsav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utsav9303&theme=radical" alt="Utsav's GitHub Streak" />
+</p>
