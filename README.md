@@ -69,12 +69,15 @@ I'm always excited to collaborate or discuss innovative ideas. Reach out to me v
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utsav9303&show_icons=true&theme=radical" alt="Utsav's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Utsav9303&theme=onedark" alt="Utsav's GitHub Trophies" />
 </p>
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utsav9303&theme=radical" alt="Utsav's GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Utsav9303&theme=react-dark" alt="Utsav's GitHub Activity Graph" />
 </p>
+
