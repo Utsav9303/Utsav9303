@@ -69,6 +69,8 @@ I'm always excited to collaborate or discuss innovative ideas. Reach out to me v
   <img src="https://github-readme-stats.vercel.app/api?username=Utsav9303&show_icons=true&theme=radical" alt="Utsav's GitHub Stats" />
 </p>
 
-![Utsav's GitHub Streak](https://streak-stats.demolab.com?user=Utsav9303&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Utsav9303&theme=radical" alt="Utsav's GitHub Streak" />
+</p>
 
 
